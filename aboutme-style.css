@@ -54,10 +54,13 @@ div{
 	text-align: center;
 	color: black;
 }
+p::first-letter{
+	font-size: xx-large;
+}
+.films{
+	margin:10px;
+}
 .last{
 	padding: 10px;
 	clear: both;
-}
-p::first-letter{
-	font-size: xx-large;
 }
