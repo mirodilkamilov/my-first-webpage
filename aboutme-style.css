@@ -1,0 +1,63 @@
+*{
+	background-color: #949393;
+
+}
+p{
+	color: white;
+	font-size: 18px;
+}
+h2{
+	color: #142EB2;
+}
+div{
+	margin-top:10px;
+}
+
+.info > h1{
+	color: #142EB2;
+}
+.subjects li{
+	color: white;
+	font-size: 18px;
+}
+.films li{
+	color: white;
+	font-size: 18px;
+}
+.films a{
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+}
+.films a:visited{
+	color:#585858;
+}
+.films a:hover{
+	color:#2F37DB;
+	text-decoration: underline;
+}
+.image1{
+	width: 600px;
+	float:left;
+}
+.image1 p{
+	margin: 10px;
+}
+.image2{
+	margin-top: 60px;
+	width: 600px;
+	float:right;
+}
+.last > p{
+	font-family: "Console", monospace;
+	font-size: 20px;
+	text-align: center;
+	color: black;
+}
+.last{
+	padding: 10px;
+	clear: both;
+}
+p::first-letter{
+	font-size: xx-large;
+}
